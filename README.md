@@ -49,5 +49,8 @@ If you liked this plugin, feel free to donate! Expect regular maintenance, bugfi
 
 ### Changelog
 
+**V0.9.1**  
+Fixed missing `subprocess` module used when running on Windows OS
+
 **V0.9**  
 Initial release
