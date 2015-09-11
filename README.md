@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-0.9.1-yellowgreen.svg)
+![](https://img.shields.io/badge/version-0.9.1.1-yellowgreen.svg)
 
 SublimePHPLOC
 ===============
@@ -18,7 +18,7 @@ You can also right-click a file/directory in the sidebar and select **`Run PHPLO
 
 
 ### Installation:
-1. Use [Package Control](https://packagecontrol.io/installation) to install `SublimePHPLOC`
+1. Use [Package Control](https://packagecontrol.io/installation) to install `PHPLOC`
 2. Download and unzip the plugin files to `<Your ST2-ST3 Packages Directory>\SublimePHPLOC\`
 
 
@@ -48,6 +48,9 @@ If you liked this plugin, feel free to donate! Expect regular maintenance, bugfi
 
 
 ### Changelog
+
+**V0.9.1.1**  
+Fixed incorrect package name in README install instructions (name changed before Package Control submission)
 
 **V0.9.1**  
 Fixed missing `subprocess` module used when running on Windows OS
