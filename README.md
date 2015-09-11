@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-0.9-yellowgreen.svg)
+![](https://img.shields.io/badge/version-0.9.1-yellowgreen.svg)
 
 SublimePHPLOC
 ===============

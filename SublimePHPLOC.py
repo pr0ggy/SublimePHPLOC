@@ -3,6 +3,7 @@ a specific path (file or directory) from within Sublime.
 '''
 
 import os
+import subprocess
 import sublime
 import sublime_plugin
 
