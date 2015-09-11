@@ -1,0 +1,10 @@
+[
+    {
+        "id": "runphploc",
+        "caption": "Run PHPLOC",
+        "command": "sublime_phploc_path",
+        "args": {
+            "paths": []
+        }
+    }
+]

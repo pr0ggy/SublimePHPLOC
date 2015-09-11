@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "PHPLOC: Run on current file",
+        "command": "sublime_phploc_path"
+    },
+    {
+        "caption": "PHPLOC: Run on project",
+        "command": "sublime_phploc_project"
+    }
+]
