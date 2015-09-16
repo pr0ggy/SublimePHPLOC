@@ -6,5 +6,9 @@
     {
         "caption": "PHPLOC: Run on project",
         "command": "sublime_phploc_project"
+    },
+    {
+        "caption": "PHPLOC: Run on selection(s)",
+        "command": "sublime_phploc_selected_lines"
     }
 ]

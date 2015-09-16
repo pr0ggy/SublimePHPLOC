@@ -1,0 +1,15 @@
+
+
+PHPLOC has been updated to version 1.0.0!
+
+
+CHANGES
+-------------------------------------------------------------------------------
+- Added ability to execute PHPLOC on currently-selected text  
+- Current file command only show up if applicable (PHP file has focus)  
+- Module refactoring
+
+
+GITHUB:  https://github.com/pr0ggy/SublimePHPLOC
+ISSUES:  https://github.com/pr0ggy/SublimePHPLOC/issues
+DONATE:  https://www.paypal.me/JLueken

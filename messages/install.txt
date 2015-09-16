@@ -1,0 +1,8 @@
+
+
+Thanks for installing PHPLOC!
+
+
+INSTRUCTIONS:  https://github.com/pr0ggy/SublimePHPLOC
+      ISSUES:  https://github.com/pr0ggy/SublimePHPLOC/issues
+      DONATE:  https://www.paypal.me/JLueken
