@@ -51,12 +51,6 @@ You can also set up custom key bindings.
 - `sublime_phploc_project`  
 - `sublime_phploc_selected_lines`
 
-### Donate:
-If you liked this plugin, feel free to donate! Expect regular maintenance, bugfixes, and updates!
-
-[![Paypal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.me/JLueken)
-
-
 ### Changelog
 
 **1.0.0**  
