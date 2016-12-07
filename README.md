@@ -8,8 +8,8 @@ Built and tested using [PHPLOC 2.1.4](https://github.com/sebastianbergmann/phplo
 
 
 ### Installation:
-1. Use [Package Control](https://packagecontrol.io/installation) to install `PHPLOC`
-2. Download and unzip the plugin files to `<Your ST2-ST3 Packages Directory>\SublimePHPLOC\`
+**Option 1:** Use [Package Control](https://packagecontrol.io/installation) to install `PHPLOC`  
+**Option 2:** Download and unzip the plugin files to `<Your ST2-ST3 Packages Directory>\SublimePHPLOC\`
 
 
 ### Usage:
